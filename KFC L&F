@@ -366,4 +366,31 @@
       "enable": true
     }
   ]
+"custom_sound_enable": true,
+  "custom_sound": [
+    {
+      "item": "sound_s1f4",
+      "value": "",
+      "url_approve": "",
+      "enable": true
+    },
+    {
+      "item": "sound_s1p2",
+      "value": "",
+      "url_approve": "",
+      "enable": true
+    },
+    {
+      "item": "sound_e4_pro",
+      "value": "",
+      "url_approve": "",
+      "enable": true
+    },
+    {
+      "item": "sound_s1f4_pro",
+      "value": "",
+      "url_approve": "https://github.com/JulioAntonioVelardeAlvarez/look_and_feel_sound/raw/refs/heads/main/kamhunt-acoustic-guitar-loop-f-91bpm-132687.wav",
+      "enable": true
+    }
+  ]
 }
