@@ -377,7 +377,7 @@
     {
       "item": "sound_s1p2",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/SONIDOS-PRUEBAS/raw/refs/heads/main/check-test_jsQHTCxU.wav",
       "enable": true
     },
     {
@@ -389,7 +389,7 @@
     {
       "item": "sound_s1f4_pro",
       "value": "",
-      "url_approve": "https://github.com/Ceron0503/SONIDOS-PRUEBAS/raw/refs/heads/main/Check%20TEST.wav",
+      "url_approve": "https://github.com/Ceron0503/SONIDOS-PRUEBAS/raw/refs/heads/main/check-test_jsQHTCxU.wav",
       "enable": true
     }
   ]
