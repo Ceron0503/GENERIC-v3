@@ -238,7 +238,7 @@
     },
     {
       "item" : "global_secondary_button_text_color",
-      "value" : "#FFFFFF",
+      "value" : "#000000",
       "enable" : true
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "item" : "global_tertiary_button_text_color",
-      "value" : "#FFFFFF",
+      "value" : "#000000",
       "enable" : true
     },
     {
@@ -363,6 +363,33 @@
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
       "url_idle": "",
+      "enable": true
+    }
+  ],
+    "custom_sound_enable": true,
+    "custom_sound": [
+    {
+      "item": "sound_s1f4",
+      "value": "",
+      "url_approve": "",
+      "enable": true
+    },
+    {
+      "item": "sound_s1p2",
+      "value": "",
+      "url_approve": "https://github.com/Ceron0503/SONIDOS-PRUEBAS/raw/refs/heads/main/check-test_jsQHTCxU.wav",
+      "enable": true
+    },
+    {
+      "item": "sound_e4_pro",
+      "value": "",
+      "url_approve": "",
+      "enable": true
+    },
+    {
+      "item": "sound_s1f4_pro",
+      "value": "",
+      "url_approve": "https://github.com/Ceron0503/SONIDOS-PRUEBAS/raw/refs/heads/main/check-test_jsQHTCxU.wav",
       "enable": true
     }
   ]
