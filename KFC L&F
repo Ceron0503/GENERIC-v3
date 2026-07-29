@@ -3,7 +3,7 @@
   "custom_ui" : [
     {
       "item" : "home_operation_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
@@ -13,17 +13,17 @@
     },
     {
       "item" : "home_center_buys_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
       "item" : "home_coin_color",
-      "value" : "##A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
       "item" : "home_keyboard_container_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "item" : "global_card_selected_background_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
@@ -53,12 +53,12 @@
     },
     {
       "item" : "home_nav_icon_text_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
       "item" : "home_sub_menu_text_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
  {
@@ -68,12 +68,12 @@
     },
     {
       "item" : "toolbar_background_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
       "item" : "toolbar_ic_back_color",
-      "value" : "#FFFFFF",
+      "value" : "#000000",
       "enable" : true
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "item" : "summary_item_selected_tip_background_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
@@ -203,7 +203,7 @@
     },
     {
       "item" : "global_cancel_button_background_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
@@ -238,7 +238,7 @@
     },
     {
       "item" : "global_secondary_button_text_color",
-      "value" : "#000000",
+      "value" : "#FFFFFF",
       "enable" : true
     },
     {
@@ -248,12 +248,12 @@
     },
     {
       "item" : "global_tertiary_button_text_color",
-      "value" : "#000000",
+      "value" : "#FFFFFF",
       "enable" : true
     },
     {
       "item" : "global_tertiary_button_background_color",
-      "value" : "#A3080B",
+      "value" : "#E4002B",
       "enable" : true
     },
     {
@@ -267,7 +267,7 @@
     {
       "item" : "image_toolbar_name",
       "value" : "image_toolbar",
-      "url" : "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/KFC%20BLANCO.png",
+      "url" : "",
       "enable" : true
     },
     {
@@ -342,7 +342,7 @@
       "url_insert": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/CREDIT%20CARD.json",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/kfc-animation-gif-download-9507478.json",
+      "url_idle": "",
       "enable": true
     },
     {
@@ -362,34 +362,7 @@
       "url_insert": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/CREDIT%20CARD.json",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/kfc-animation-gif-download-9507478.json",
-      "enable": true
-    }
-  ],
-"custom_sound_enable": true,
-  "custom_sound": [
-    {
-      "item": "sound_s1f4",
-      "value": "",
-      "url_approve": "",
-      "enable": true
-    },
-    {
-      "item": "sound_s1p2",
-      "value": "",
-      "url_approve": "https://github.com/Ceron0503/SONIDOS-PRUEBAS/raw/refs/heads/main/check-test_jsQHTCxU.wav",
-      "enable": true
-    },
-    {
-      "item": "sound_e4_pro",
-      "value": "",
-      "url_approve": "",
-      "enable": true
-    },
-    {
-      "item": "sound_s1f4_pro",
-      "value": "",
-      "url_approve": "https://github.com/Ceron0503/SONIDOS-PRUEBAS/raw/refs/heads/main/check-test_jsQHTCxU.wav",
+      "url_idle": "",
       "enable": true
     }
   ]
