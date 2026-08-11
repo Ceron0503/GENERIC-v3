@@ -347,13 +347,13 @@
       "enable": true
     },
     {
-      "item": "animation_e4_pro",
+      "item": "animation_s2l",
       "value": "",
       "url_report": "",
       "url_insert": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/x3.json",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
-      "url_idle": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/kfc-animation-gif-download-9507478.json",
       "enable": true
     },
     {
