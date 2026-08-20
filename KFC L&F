@@ -347,6 +347,17 @@
       "enable": true
     },
     {
+      "item": "animation_s2l",
+      "value": "",
+      "url_report": "",
+      "url_insert": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/x3.json",
+      "url_remove": "",
+      "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/kfc-animation-gif-download-9507478.json",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/KFC%202.0.json",
+      "enable": true
+    },
+    {
       "item": "animation_s1f4_pro",
       "value": "",
       "url_report": "",
@@ -371,6 +382,15 @@
     },
     {
       "item": "sound_s1p2",
+      "value": "",
+      "url_approve": "https://github.com/Ceron0503/Litties-Pruebas/raw/refs/heads/main/KFC%20SOUND.wav",
+      "url_init": "",
+      "url_remove": "",
+      "url_denied": "",
+      "enable": true
+    },
+    {
+      "item": "sound_s2l",
       "value": "",
       "url_approve": "https://github.com/Ceron0503/Litties-Pruebas/raw/refs/heads/main/KFC%20SOUND.wav",
       "url_init": "",
