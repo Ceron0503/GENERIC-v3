@@ -272,7 +272,7 @@
     {
       "item": "image_toolbar_name",
       "value": "image_toolbar",
-      "url": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/CA-Logo.png",
+      "url": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/C%26A-Logo%20White.png",
       "enable": true
     },
     {
@@ -307,7 +307,7 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "",
+      "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/CA-Logo.png",
       "url_approve": "",
       "enable": true
