@@ -68,17 +68,17 @@
     },
     {
       "item": "toolbar_background_color",
-      "value": "#E63478",
+      "value": "#FFFFFF",
       "enable": true
     },
     {
       "item": "toolbar_ic_back_color",
-      "value": "#FFFFFF",
+      "value": "#33383E",
       "enable": true
     },
     {
       "item": "merchant_title_text_color",
-      "value": "#FFFFFF",
+      "value": "#33383E",
       "enable": true
     },
     {
