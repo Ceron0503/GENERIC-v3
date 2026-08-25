@@ -296,18 +296,18 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "",
+      "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
       "url_idle": "",
       "url_approve": "",
       "enable": true
     },
     {
-      "item": "animation_dx4000",
+      "item": "animation_ex6000",
       "value": "",
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "",
+      "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
       "url_idle": "",
       "url_approve": "",
       "enable": true
@@ -318,7 +318,7 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "",
+      "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
       "url_idle": "",
       "url_approve": "",
       "enable": true
