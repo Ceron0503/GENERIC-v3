@@ -286,6 +286,12 @@
       "value": "image_watermark",
       "url": "",
       "enable": false
+    },
+    {
+     "item":"image_advertising",
+     "value":"image_ad",
+     "url":"",
+     "enable":true
     }
   ],
   "custom_animations_enable": true,
@@ -350,6 +356,17 @@
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
       "enable": true
     },
+    {
+     "item":"animation_s2l",
+     "value":"",
+     "url_report":"",
+     "url_insert":"",
+     "url_remove":"",
+     "url_loader":"https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
+     "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPS_v2_720x1600.json",
+     "url_advertising": "",
+     "enable":true
+    }
     {
       "item": "animation_s1f4_pro",
       "value": "",
